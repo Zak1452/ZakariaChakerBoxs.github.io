@@ -1,264 +1,264 @@
 header /*Premier header*/
 {
-	border : 2px solid black;
-	background-color: beige ;
-	position: scroll;
-	width: 25%;
-	padding-right: 10 px;
-	margin-bottom: 20px;
+  border : 2px solid black;
+  background-color: beige ;
+  position: scroll;
+  width: 25%;
+  padding-right: 10 px;
+  margin-bottom: 20px;
 }
 
 .li1, .li2, .li3, .li4, .li5
  {
-   margin-left:2px;
-   float:left; 
-   text-decoration: none;
-   list-style-type: none;
+  margin-left:2px;
+  float:left; 
+  text-decoration: none;
+  list-style-type: none;
  }
   
 a
  {
-    font-family:comic sans ms;font-size:14px;
+   font-family:comic sans ms;font-size:14px;
   
  }
 .ul
 {
-	padding: 0;
-	list-style-type: none;
+  padding: 0;
+  list-style-type: none;
 	
 }
 .menu
 {
-	position : relative;
+  position : relative;
 
 	
-	font-weight: bold;
-	height:80px;
-   width: 1200px;
+  font-weight: bold;
+  height:80px;
+  width: 1200px;
 	
-	text-align: center;
-	list-style-type: none;
+  text-align: center;
+  list-style-type: none;
 }
 
 
 
 .li1, .li2, .li3, .li4, .li5
 {
-   display:inline-block;
-   width:200px;
-   color:black;
-   text-decoration:none;
-   border: 2px solid black;
-   text-align: center;
-   padding-left: 10px;
-   padding-right: 10px;
-   background-color: lightcyan;
-   font-family: arial;
-   font-size: 15px;
+  display:inline-block;
+  width:200px;
+  color:black;
+  text-decoration:none;
+  border: 2px solid black;
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: lightcyan;
+  font-family: arial;
+  font-size: 15px;
 }   
 
 
 .Nom_Prenom
 {
-	color: black;
-	font-weight: bold;
-	font-family: Verdana;
-	font-size: 30px;
-	text-align: center;
-   overflow: auto;
+  color: black;
+  font-weight: bold;
+  font-family: Verdana;
+  font-size: 30px;
+  text-align: center;
+  overflow: auto;
 }  
 
 .Statut
 {
-	font-family: arial;
-	font-size: 15px;
-	text-align: left;
-	overflow: auto;
-	padding-left: 10px;
+  font-family: arial;
+  font-size: 15px;
+  text-align: left;
+  overflow: auto;
+  padding-left: 10px;
 } 
 .Titre
 {
-	margin-bottom: -20px;
-	margin-top: -20px ;
+  margin-bottom: -20px;
+  margin-top: -20px ;
 }
 
 body
 {
-	background-image: url("Fond_site.png"); /*Fond du site*/
+  background-image: url("Fond_site.png"); /*Fond du site*/
 }
 
 
 
 aside
 {   
-	padding-left : 10px;
-	padding-bottom : 10px;
-	padding-right: 10px ;
-	margin-top : -30px;
-	border: 1px solid black;
-	background-color: beige;
-	width: 25%;
+  padding-left : 10px;
+  padding-bottom : 10px;
+  padding-right: 10px ;
+  margin-top : -30px;
+  border: 1px solid black;
+  background-color: beige;
+  width: 25%;
 }
 
 .Profil
 {
-	font-weight: 200;
-	background-color: Red;
-	text-align: center;
-	color : white
+  font-weight: 200;
+  background-color: Red;
+  text-align: center;
+  color : white;
 }
 .Contact
 {
-	font-weight: 200;
-	background-color: Red;
-	text-align: center;
-	color : white
+  font-weight: 200;
+  background-color: Red;
+  text-align: center;
+  color : white;
 }
 .Centres
 {
-	font-weight: 200;
-	background-color: Red;
-	text-align: center;
-	color : white
+  font-weight: 200;
+  background-color: Red;
+  text-align: center;
+  color : white;
 }
 
 .Langues
 {
-	font-weight: 200;
-	background-color: Red;
-	text-align: center;
-	color : white
+  font-weight: 200;
+  background-color: Red;
+  text-align: center;
+  color : white;
 }
 .Profil_ecrit
 {
-	font-size: 15px;
+  font-size: 15px;
 	
 
 }
 
 .La_formation
 {
-	border : 1px solid black;
-	background-color: white;
-	width: 50%;
-	overflow: auto;
-	margin-top: -875px;
-	margin-left: 500px;
+  border : 1px solid black;
+  background-color: white;
+  width: 50%;
+  overflow: auto;
+  margin-top: -875px;
+  margin-left: 500px;
 
-	position: right top;
-	height: 300px;
-	padding: 20px;
+  position: right top;
+  height: 300px;
+  padding: 20px;
 
 }
 .Formation
 {
-	font-weight: 200;
-	background-color: Red;
-	text-align: center;
-	color : white
+  font-weight: 200;
+  background-color: Red;
+  text-align: center;
+  color : white;
 
 }
 
 .leul
 {
-	list-style-type: none;
-	font-family: arial;
-   font-size: 15px;
+  list-style-type: none;
+  font-family: arial;
+  font-size: 15px;
 }
 mark
 {
-	font-weight: bold;
-	font-style: initial;
+  font-weight: bold;
+  font-style: initial;
 }
 .ci 
 {
-	list-style-type: none;
+  list-style-type: none;
 }
 ul 
 {
-	font-family: arial;
-   font-size: 15px;
+  font-family: arial;
+  font-size: 15px;
 }
 .Lescompetences
 {
-	border : 1px solid black;
-	background-color: white;
-	width: 50%;
-	overflow: auto;
-	margin-top: 17px;
-	margin-left: 500px;
+  border : 1px solid black;
+  background-color: white;
+  width: 50%;
+  overflow: auto;
+  margin-top: 17px;
+  margin-left: 500px;
 
-	position: right top;
-	height: 180px;
-	padding: 20px;
+  position: right top;
+  height: 180px;
+  padding: 20px;
 }
 
 .Compétences
 {
-	font-weight: 200;
-	background-color: Red;
-	text-align: center;
-	color : white
+  font-weight: 200;
+  background-color: Red;
+  text-align: center;
+  color : white;
 }
 .monBenevolat
 {
-	border : 1px solid black;
-	background-color: white;
-	width: 50%;
-	overflow: auto;
-	margin-top: 17px;
-	margin-left: 500px;
-   list-style-type: none;
-	position: right top;
-	height: 120px;
-	padding: 20px;
+  border : 1px solid black;
+  background-color: white;
+  width: 50%;
+  overflow: auto;
+  margin-top: 17px;
+  margin-left: 500px;
+  list-style-type: none;
+  position: right top;
+  height: 120px;
+  padding: 20px;
 	
 }
 
 .Bénévolat
 {
-	font-weight: 200;
-	background-color: Red;
-	text-align: center;
-	color : white;
+  font-weight: 200;
+  background-color: Red;
+  text-align: center;
+  color : white;
 	
 
 }
 
 .le1, .le2, .le3
 {
-	list-style-type: none;
-   font-family: arial;
-   font-size: 15px;
+  list-style-type: none;
+  font-family: arial;
+  font-size: 15px;
 }
 
 article
 {
-	border: 1px olive dotted;
-	margin-top: 200px;
-	padding: 10px;
+  border: 1px olive dotted;
+  margin-top: 200px;
+  padding: 10px;
 }
 .ul_Formation
 {
-	font-family: arial;
    font-size: 15px;
+   font-family:arial;
 }
 
 p 
 {
-	font-family: arial;
-   font-size: 15px;
+  font-family: arial;
+  font-size: 15px;
 }
 
 footer
 {
-	text-align: center;
-	border-bottom: 1px black solid;
+  text-align: center;
+  border-bottom: 1px black solid;
 }
 .limage 
 {
-	margin-top: 10px;
-	margin-left: 130px;
-	box-shadow: 6px 6px 0px black;
-	width: 31%;
+  margin-top: 10px;
+  margin-left: 130px;
+  box-shadow: 6px 6px 0px black;
+  width: 31%;
 }
